@@ -1,7 +1,33 @@
 # **All You Need To Know About Glasp - A Social Web Highlighter**
 ![cover-image](./images/glasp-cover.png)
 
-# **Introduction**
+
+## **Table Of Content**
+[Introduction](#introduction) <br>
+[What Is Glasp?](#what-is-glasp)<br>
+[Why Use Glasp?](#why-use-glasp)<br>
+[How Does Glasp Work?](#how-does-glasp-work)<br>
+> [Hightlights And Notes](#highlights-and-notes)<br>
+> [Managing Reading List](#managing-reading-list)<br>
+[Reading From Others](#reading-from-others)<br>
+[Features Of Glasp](#features-of-glasp)<br>
+[Youtube Highlight](#youtube-highlight)<br>
+[Kindle Integration](#kindle-integration)<br>
+[Quoteshot](#quoteshot)<br>
+[Knowledge Graph](#knowledge-graph)<br> 
+[AI Summary](#ai-summary)<br>
+[PDF Highlight](#pdf-highlight)<br>
+[Embed In Blog](#embed-in-blog)<br>
+[Download All](#download-all) <br> 
+[Benefits Of Using Glasp](#benefits-of-using-glasp)<br>
+[Content Curation](#content-curation)<br>
+[Knowledge Management](#knowledge-management)<br>
+[Community And Accountability](#community-and-accountability)<br>
+[Conclusion](#conclusion)<br><br><br>
+
+
+
+## **Introduction**
 If you love to take notes while reading online, you’d agree with me that switching between the article you’re reading and a note-taking app can be daunting! But what if you could have all these notes in one place and then easily copy them to your note app at the end of your reading? Glasp helps you do just that!
 
 <br>
@@ -65,7 +91,7 @@ You can also ask them questions about their topics of interest or view their kno
 
 <br>
 
-## **Features Of Glasp?**
+## **Features Of Glasp**
 The major features of Glasp are its Note-taking and Social feature. Other amazing features of Glasp include:
 
 ### **Youtube Highlight**
@@ -89,15 +115,51 @@ This feature gives you a beautiful graphic of your highlight which you can share
 Knowledge Graph people to see how much knowledge you have accumulated around a certain topic. You can view an entire knowledge Graph, or select a specific topic to see your knowledge graph in that area.
 
 ### **AI Summary**
+![Reading-list-on-glasp](./images/ai-summary.png)
+
+Based on your accumulated highlights, this feature gives you an AI-powered summary of all your highlights, which you can copy to a post, or share on Twitter.
+
+
+### **PDF Highlight**
+![Reading-list-on-glasp](./images/Pdf-highlight.png)
+
+This feature allows you to highlight and take notes on PDF files hosted on the web. However, due to technical and security reasons, Glasp does not allow highlights on certain websites, including Google products, note-taking apps, bank apps, and local PDF files.
 
 
 
+### **Embed In Blog**
+![Reading-list-on-glasp](./images/embed-in-blog.png)
+
+This feature allows you to embed your Glasp profile and Highlights in blogs such as Notion or Obsidian, using an embed code.
 
 
 
+### **Download All**
+![Reading-list-on-glasp](./images/download-all.png)
 
+This feature allows you to download all your Notes and Highlights as either text, CSV, HTML, or Markup files. Making it easy for you to integrate them into any program.
 
+<br>
 
+## **Benefits Of Using Glasp**
+
+### **Content Curation**
+With Glasp, content curators can easily highlight and organize their notes all in one place, without interrupting their reading experience. They can also copy or download their curated Notes in any format that would be easy to integrate into their blog posts.
+Knowledge management.
+
+### **Knowledge Management**
+Glasp allows you to organize your content with tags, search or filter by topics, so you can easily access Highlights, Notes or Ideas that you’re interested in.
+
+### **Community And Accountability**
+Glasp allows you to access what others are reading as well as share your Highlights and Notes with others, creating social accountability for readers.
+
+<br>
+
+## **Conclusion**
+
+Glasp is an amazing tool that does not just allow you to take note of what you read but to do so in a more organized and seamless way. It takes away the stress of keeping track of your notes, allowing you to focus on the most important things. Also, it connects you with like-minded people and helps you stay accountable with your readings.
+
+So get started with Glasp and enjoy seamless highlighting by [signing up on Glasp](https://glasp.co) today! 
 
 
 
